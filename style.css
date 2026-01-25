@@ -1,7 +1,7 @@
 body{
   margin: 0;
   min-height: 100vh;
-  background-image: url("mist");
+  background-image: url("mist.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -129,6 +129,7 @@ figure img {
   font-size: 20px;
   opacity: 1;
 }
+
 
 
 
